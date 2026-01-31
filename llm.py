@@ -5,7 +5,7 @@ from openai import OpenAI
 
 client = OpenAI(
     base_url="https://generativelanguage.googleapis.com/v1beta/openai/",
-    api_key="AIzaSyBHg6miB3SLFQZD9a3rbyMuYnRVNUHZE5o"
+    api_key=""
 )
 
 SYSTEM_PROMPT = """
